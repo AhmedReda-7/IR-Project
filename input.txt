@@ -1,0 +1,10 @@
+./ir/1.txt
+./ir/2.txt
+./ir/3.txt
+./ir/4.txt
+./ir/5.txt
+./ir/6.txt
+./ir/7.txt
+./ir/8.txt
+./ir/9.txt
+./ir/10.txt
